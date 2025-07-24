@@ -1,7 +1,5 @@
 
 dist/
-# Node modules
-node_modules/
 
 # Build output
 build/
@@ -17,6 +15,4 @@ build/
 .env.test.local
 .env.production.local
 
-# Cache files
-.cache/
-node_modules
+
