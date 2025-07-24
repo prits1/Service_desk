@@ -19,3 +19,4 @@ build/
 
 # Cache files
 .cache/
+node_modules
